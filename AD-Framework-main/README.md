@@ -8,7 +8,7 @@ Platform and software.
 * Python 3.7 (Anaconda is recommended.)
 
 Python Packages and its version: 
-* torch == 1.8.1
+* torch == 1.7.0
 * scikit-learn == 0.24.1
 * numpy == 1.19.5
 * scipy == 1.6.2
